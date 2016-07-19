@@ -1,0 +1,14 @@
+layout_spectrum: 0.9617380825802684
+typography_spectrum: 0.04648096486926079
+color:
+  brandStrength: 0.2678344324231148
+  lightness: 0.8482486375141889
+  saturation: 0.7702659093774855
+  rhythmicContrast: 0.08736398280598223
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: onyX
